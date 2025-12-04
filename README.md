@@ -1,2 +1,3 @@
-# course_2025_programming
+**# course_2025_programming
 Учебный курс. Задания, шаблоны, материалы.
+**
